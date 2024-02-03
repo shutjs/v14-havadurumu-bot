@@ -8,6 +8,7 @@ module.exports = {
   permissions: ['SendMessages'],
   owner: false,
   run: async (client, message, args, prefix, config) => {
+    if(!message.member.permissions.has('ADMINISTRATOR')) return message.channel.send("Bu komutu kullanmak için yetkiniz bulunmuyor.")
     let buton1 = new ButtonBuilder()
     .setCustomId(`bolge_akdeniz`)
     .setLabel("Akdeniz")
