@@ -1,5 +1,5 @@
 # v14-havadurumu-bot
-
+içindeki d.txtleri silin github klasörleri algılasın diye koydum
 ![image](https://cdn.discordapp.com/attachments/1102575677837934722/1203375979477737535/image.png?ex=65d0de37&is=65be6937&hm=fea165a26234ad831beeccfb001678934ee7f1cca98e00702c3bc2e2be4eccf3&)
 
 
